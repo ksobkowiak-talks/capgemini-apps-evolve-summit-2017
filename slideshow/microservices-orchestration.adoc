@@ -1,0 +1,55 @@
+include::includes/_settings.adoc[]
+
+:revealjs_theme: sobkowiak-cg
+:speaker: Krzysztof Sobkowiak (http://twitter.com/ksobkowiak[@ksobkowiak])
+:speaker-title: The Apache Software Foundation Member, Senior Solution Architect at Capgemini
+:speaker-email: krzys.sobkowiak@gmail.com
+:speaker-blog: http://sobkowiak.github.io
+:speaker-twitter: http://twitter.com/ksobkowiak[@ksobkowiak]
+
+
+= Microservices Orchestration with Kubernetes & OpenShift
+
+
+[.cover]
+--
+
+[.event]
+Capgemini APPS Evolve! / Architects and Software Engineers Summit 2017 +
+Frankfurt, 23rd of March 2017
+
+[.newline]
+{speaker}
+[.speaker-title]
+The Apache Software Foundation Member +
+Senior Solution Architect at Capgemini
+[.logo-left]
+image:{template-images-dir}/feather.png[width="60", link="http://apache.org"]
+--
+
+// ***************************************************************************
+include::includes/about.adoc[]
+include::includes/disclaimer-cg.adoc[]
+// ***************************************************************************
+
+== Outline
+
+[.noredheader,cols="50%,50%"]
+|===
+a|
+* ...
+* ...
+* ...
+a|
+* ...
+* ...
+* ...
+|
+|===
+
+
+// ***************************************************************************
+include::includes/qa-simple.adoc[]
+include::includes/license-cg.adoc[]
+//include::includes/credits.adoc[]
+// ***************************************************************************
