@@ -1,0 +1,13 @@
+---
+buildName: "ipclient"
+links:
+  Git: "http://gogs/gogsadmin/ipclient.git"
+  Job: "http://192.168.99.100:31617/job/ipclient"
+  Production: "http://172.30.232.163:80/kubernetes/pods?namespace=default-production"
+  Staging: "http://172.30.232.163:80/kubernetes/pods?namespace=default-staging"
+  Testing: "http://172.30.232.163:80/kubernetes/pods?namespace=default-testing"
+environments:
+  Testing: "default-testing"
+  Staging: "default-staging"
+  Production: "default-production"
+useLocalFlow: true
