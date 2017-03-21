@@ -8,15 +8,16 @@ include::includes/_settings.adoc[]
 :speaker-twitter: http://twitter.com/ksobkowiak[@ksobkowiak]
 
 
-= Microservices Orchestration with Kubernetes & OpenShift
-
+= Fabric8 your Services on Kubernetes & OpenShift
+// = Microservices Orchestration with Kubernetes & OpenShift
+//= Microservices Powered by Kubernetes & OpenShift
 
 [.cover]
 --
 
 [.event]
 Capgemini APPS Evolve! / Architects and Software Engineers Summit 2017 +
-Frankfurt, 23rd of March 2017
+Frankfurt, 24th of March 2017
 
 [.newline]
 {speaker}
