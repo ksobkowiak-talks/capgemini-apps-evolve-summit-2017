@@ -50,14 +50,20 @@ a|
 |
 |===
 
+// ----------------------------------------------------------------------------
+
 == !
 
 image::turbo-camel.jpg[align="center"]
+
+// ----------------------------------------------------------------------------
 
 === !
 
 [.medium-text]
 Creating business value through software is about speed, safety, iteration, and continuous improvement
+
+// ----------------------------------------------------------------------------
 
 === !
 
@@ -75,14 +81,40 @@ a|
 |
 |===
 
+// ----------------------------------------------------------------------------
+
 === !
 
-image::docker.png[align="center"]
+image::docker-logo.png[align="center"]
+
+// ----------------------------------------------------------------------------
+
+=== !
+
+[.noredheader,cols="48%,4%,48%"]
+|===
+^.^| image:netflix-java-logo.png[width="70%"]
+a|
+.^a|
+* Distributed configuration
+* Service Discovery
+* Loadbalancing
+* Circuit Breakers
+* Bulkheading
+* Versioning/Routing
+* Based on AWS
+|
+|===
+// ----------------------------------------------------------------------------
+
+=== What about non-java?
+
+image::non-java-languages.png[align="center", width="50%"]
 
 
 
 // ***************************************************************************
 include::includes/qa-simple.adoc[]
 include::includes/license-cg.adoc[]
-include::includes/credits.adoc[]
+//include::includes/credits.adoc[]
 // ***************************************************************************
