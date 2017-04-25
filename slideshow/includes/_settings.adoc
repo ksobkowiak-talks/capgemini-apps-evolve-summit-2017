@@ -4,6 +4,6 @@
 // :source-highlighter: pygments
 // :pygments-style: tango
 :source-highlighter: highlightjs
-:template-images-dir: /assets/images
-:imagesdir: images
+:template-images-dir: assets/images
+//:imagesdir: images
 //:customcss: slides.css

@@ -12,14 +12,14 @@ include::includes/_settings.adoc[]
 // = Microservices Orchestration with Kubernetes & OpenShift
 //= Microservices Powered by Kubernetes & OpenShift
 
-//image::title-logo.png[align="center", width="30%"]
+image::images/kubernetes-openshift-fabric8.png[align="center", width="40%"]
 
 [.cover]
 --
 
 [.event]
 Capgemini APPS Evolve! / Architects and Software Engineers Summit 2017 +
-Frankfurt, 24th of March 2017
+Mörfelden, 24th of March 2017
 
 [.newline]
 {speaker}
@@ -35,26 +35,12 @@ include::includes/about.adoc[]
 include::includes/disclaimer-cg.adoc[]
 // ***************************************************************************
 
-== Outline
-
-[.noredheader,cols="50%,50%"]
-|===
-a|
-* ...
-* ...
-* ...
-a|
-* ...
-* ...
-* ...
-|
-|===
 
 // ----------------------------------------------------------------------------
 
 == !
 
-image::turbo-camel.jpg[align="center"]
+image::images/turbo-camel.png[align="center"]
 
 // ----------------------------------------------------------------------------
 
@@ -69,7 +55,7 @@ Creating business value through software is about speed, safety, iteration, and 
 
 [.noredheader,cols="38%,4%,58%"]
 |===
-^.^| image:frameworks.png[]
+^.^| image:images/java-microservices-frameworks.png[]
 a|
 .^a|
 * Simple configuration
@@ -85,15 +71,9 @@ a|
 
 === !
 
-image::docker-logo.png[align="center"]
-
-// ----------------------------------------------------------------------------
-
-=== !
-
 [.noredheader,cols="48%,4%,48%"]
 |===
-^.^| image:netflix-java-logo.png[width="70%"]
+^.^| image:images/netflix-java-logo.png[width="70%"]
 a|
 .^a|
 * Distributed configuration
@@ -107,9 +87,14 @@ a|
 |===
 // ----------------------------------------------------------------------------
 
+=== !
+
+image::images/docker-logo.png[align="center"]
+
+// ----------------------------------------------------------------------------
 === What about non-java?
 
-image::non-java-languages.png[align="center", width="50%"]
+image::images/non-java-languages.png[align="center", width="50%"]
 
 
 
