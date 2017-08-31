@@ -1,0 +1,4 @@
+[submodule "slideshow/reveal.js"]
+	path = slideshow/reveal.js
+	url = git@github.com:ksobkowiak-talks/reveal.js.git
+	branch = master
